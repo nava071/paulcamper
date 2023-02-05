@@ -57,6 +57,5 @@ Then the page should display all of the results.
 ## Task 3
 
 This is how I would approach testing the Map functionality.
-![Test cases](Task3.md)
 ![My Approach to task 3](task3.png)
 
