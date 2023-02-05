@@ -53,3 +53,9 @@ As a user,
 When I uncheck the Select All checkbox
 Then the page should display all of the results.
 ```
+
+## Task 3
+
+This is how I would approach testing the Map functionality.
+![My Approach to task 3](task3.png)
+
