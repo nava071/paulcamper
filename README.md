@@ -11,50 +11,45 @@
 
 #### Scenarios for the "Select All" checkbox
 
-As a user, 
 
+```
+As a user,
 I should be able to see the Select All checkbox under the filters Vehicle > Body Styles > Select All
+```
 
-
-As a user, 
-
+```
+As a user,
 When I check the Select All checkbox
-
 Then All other body styles should be selected.
+```
 
-
-As a user, 
-
+```
+As a user,
 When I uncheck the Select All checkbox
-
 Then All other body styles should be unselected.
+```
 
-
-As a user, 
-
+```
+As a user,
 When I check the Select All checkbox
-
 Then Search Results count should be updated on the button "Search Results" inside the Vehicle Filter
+```
 
-
-As a user, 
-
+```
+As a user,
 When I uncheck the Select All checkbox
-
 Then Search Results count should be updated on the button "Search Results" inside the Vehicle Filter to zero as none of the filter is selected
+```
 
-
-As a user, 
-
+```
+As a user,
 When I check the Select All checkbox
-
-Then the page should filter the results on all the Body Styles 
-
+Then the page should filter the results on all the Body Styles
 And the Search Results count should be updated on the top of the page.
+```
 
-
-As a user, 
-
+```
+As a user,
 When I uncheck the Select All checkbox
-
 Then the page should display all of the results.
+```
